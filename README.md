@@ -1,6 +1,8 @@
 # nutri
 [![Bower](https://img.shields.io/bower/l/django)](https://github.com/ricardoramospereira/nutri/blob/main/LICENSE)
 
+⚠️ Adjusting navigation links and setting home page
+
 # User authentication
 ## requirements
 * user registration
