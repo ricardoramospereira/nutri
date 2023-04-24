@@ -42,7 +42,8 @@ Requirements = python==3.9.12 | django==4.1.7
 git clone https://github.com/ricardoramospereira/nutri.git
 
 # install dependencies
-pillow
+django==4.1.7
+pillow==9.4.0
 ```
 
 # author
